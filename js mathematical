@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <body>
+      <script>
+        let one = prompt("first number ")
+        let two = prompt("another number ")
+
+        function multiply(o,t){
+          var m = o * t 
+          return m;
+          }
+          
+          var answer = multiply(one,two);
+          window.alert(answer)
+          
+        </script>
+      </body>
+   </head>
+</html>
